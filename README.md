@@ -1,79 +1,22 @@
 
-#### 나의 첫 GitHub 연동의 대한 시작으로 md 파일 확장안에 사용 할 수 있는 태그를 간단히 정리를 하였다.
-#### 이제 md 파일은 챕터? 또는 정리한 목차 별로 정리를 하겠다는 목표를 가지고 진행을 하려고 있으며, 스터디 별로 디렉토리를 생성 하여 ReadMe.md 파일을 생성 하겠으며,
-#### 파일의 내용에는 구현 해놓은 거 에 대한 설명을 적어 나아가도록 지향을 하려고 한다.
+# Java 8에서만 제공 되어 있는 기능들에서 정리 하려고 한다.
 
+## 1. Java 8 변경 사항
+>
+1. Lambda Expression (람다표현식)
+2. Method Reference (메소드 참조)
+3. Stream (스트림)
+4. Default Method
+5. Optional
+6. Joda Tim
 
-# Visual Studio 기본 MarkDown 정리 (by. ljt8692) #
-## 기본 Basic Syntax 설정 방법 ##
-### Headings ###    
-    # = <h1>
-    ## = <h2>
-    ### = <h3>
-    #### = <h4>
-    ##### = <h5>
-    ###### = <h6>   
-###
+## 2. 기타 정리
+1. 자바 스트림
+    1. 바이트 스트림
+    2. 문자 스트림
+2. 자료 구조
+3. 알고리즘
 
-### Bold ###
-    나는 **강하게** = 나는 <strong>강하게</strong>
-    나는 __강하게__  = 나는 <strong>강하게</strong>
-
-### Italic ###
-    나는 *강하게* = 나는 <em>강하게</em>
-    나는 _강하게_  = 나는 <em>강하게</em>
-
-### Bold And Italic ###
-    나는 ***강하게*** = 나는 <strong><em>강하게</em></strong>
-    나는 **_강하게_** = 나는 <strong><em>강하게</em></strong>
-    나는 __*강하게__* = 나는 <strong><em>강하게</em></strong>
-    나는 ___강하게___ = 나는 <strong><em>강하게</em></strong>
-
-### Nested Blockquotes ###
-
-> 안녕
-    >> 안녕 2
-        >>> 안녕 3
-            >>>> 안녕 4
-
-### Ordered List ###
-1. 안녕 
-2. 안녕 2
-3. 안녕 3
-4. 안녕 4
-5. 안녕 5
-   1. 안녕 1
-   2. 안녕 2
-
-###  Unordered Lists ###
-- 안녕 1
-- 안녕 2 
-- 안녕 3
-
-### Code ###
-`'안녕 1` = <code>안녕</code>
-
-### Links ###
-\[네이버](https://www.naver.com) = [네이버](https://www.naver.com)
-
-### Characters You Can Excape ###
-
-    Character	Name
-    \	        backslash
-    `	        backtick (see also escaping backticks in code)
-    \*	        asterisk
-    _	        underscore
-    { }	        curly braces
-    [ ]	        brackets
-    < >	        angle brackets
-    ( )	        parentheses
-    #	        pound sign
-    +	        plus sign
-    -	        minus sign (hyphen)
-    .	        dot
-    !	        exclamation mark
-    |	        pipe (see also escaping pipe in tables)
-
-
-
-
+## 3. 자바 스크립트 정리
+1. ES6
+    1.
