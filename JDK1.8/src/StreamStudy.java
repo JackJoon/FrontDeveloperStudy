@@ -103,6 +103,15 @@ public class StreamStudy {
                 .collect(Collectors.toList());
         spring.forEach(System.out::println);
 
+        List<Map<String,String>> list = new ArrayList();
+        Map<String,String> map = new HashMap<String>();
+        map.put("cardPdNum","BD12");
+        map.put("title","11");
+        map.put("name","222");
+
+        list.add(put);
+
+
 
 
 
